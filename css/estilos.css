@@ -11,11 +11,9 @@ body{
     padding: 0.5em;
     font-weight: bold;
     box-shadow: 0px 5px 30px 0px;
-    rgba(0,0,0,0.75);
-
-
+   
 }
-#cabeceratagline 
+#tagline 
 {
     padding: 0,0,0,1em;
     font-weight: normal;
